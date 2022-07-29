@@ -9,15 +9,15 @@
 "env": {
   "BOT_NAME": {
   "description": "Name of your bot",
-   "value": "Zero-Two-Botto"
+   "value": "DINKU BOT"
   },
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ikshwaku Pandey"
+      "value": "Nimuzz"
   },
   "BOT_OWNER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "917736558244"
   },
   "OPENAI_API_KEY": {
     "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.",
