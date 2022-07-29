@@ -24,8 +24,8 @@
     "bot-md",
     "multi-device"
   ],
-  "base-author": "SamPandey001",
-  "author": "SamPandey001,Fantox",
+  "base-author": "Nimuzz",
+  "author": "Nimuzz,Nimuzz",
   "license": "GNU",
  "dependencies": {
   "@adiwajshing/baileys": "github:sampandey001/baileys",
